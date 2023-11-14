@@ -1,0 +1,135 @@
+.need {
+  background: #014e56;
+}
+
+.container {
+  padding: 20px;
+  width: 160px;
+  height: 40px;
+  flex-shrink: 0;
+  color: white;
+}
+
+nav {
+  display: flex;
+  margin-left: 1100px;
+  gap: 40px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+nav button {
+  border-radius: 30px;
+  width: 153px;
+  height: 48px;
+  flex-shrink: 0;
+  color: white;
+  background: #014e56;
+  border-color: white;
+}
+
+.need h1 {
+  width: 350px;
+  color: #fff;
+  font-family: Livvic;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100px;
+  margin-top: 124px;
+  margin-left: 165px;
+}
+
+.About {
+  display: flex;
+}
+
+.About p {
+  color: white;
+  margin-top: 130px;
+  margin-left: 300px;
+}
+
+.need-2 {
+  background: #004047;
+}
+
+.section-2 {
+  color: white;
+  text-align: center;
+}
+
+.section-2 h1 {
+  padding: 71px;
+}
+
+.People {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.need-3 {
+  background: #012f34;
+}
+
+.section-3 h1 {
+  color: white;
+  text-align: center;
+  padding: 80px;
+}
+
+.section-3 img {
+  width: 165px;
+  height: 22.788px;
+  flex-shrink: 0;
+}
+
+.img {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+.need-4 {
+  background: #f67e7e;
+  display: flex;
+  flex-direction: row;
+}
+
+.Contacts {
+  padding: 50px;
+}
+
+.Contacts button {
+  border-radius: 30px;
+  width: 153px;
+  height: 48px;
+  flex-shrink: 0;
+  color: #014e56;
+  background:#f67e7e ;
+  border-color: #014e56;
+}
+
+.need-5 {
+    background: #012f34;
+}
+
+footer h1 {
+    color: white;
+}
+
+.instagram {
+    margin-left: 1300px;
+}
+
+.footer-1 h1{ 
+    margin-right: 100px;
+}
+
+@media screen {
+    
+}
